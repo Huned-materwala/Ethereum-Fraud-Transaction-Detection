@@ -1,1 +1,0 @@
-{'C': 10, 'cache_size': 2048, 'gamma': 'scale', 'kernel': 'linear'}
