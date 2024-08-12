@@ -1,0 +1,1 @@
+{'final_estimator__C': 0.0625, 'final_estimator__max_iter': 10000, 'final_estimator__solver': 'newton-cg', 'lr__C': 0.25, 'lr__max_iter': 10000, 'lr__solver': 'newton-cg', 'rf__criterion': 'gini', 'rf__max_depth': None, 'rf__max_features': None, 'rf__n_estimators': 300}
