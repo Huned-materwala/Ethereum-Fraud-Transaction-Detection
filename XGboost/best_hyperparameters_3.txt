@@ -1,0 +1,1 @@
+{'learning_rate': 0.5, 'max_depth': 4, 'min_child_weight': 3, 'n_estimators': 400}
