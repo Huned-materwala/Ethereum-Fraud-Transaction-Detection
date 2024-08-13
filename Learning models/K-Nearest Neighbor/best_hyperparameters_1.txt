@@ -1,0 +1,1 @@
+{'algorithm': 'auto', 'n_neighbors': 2, 'weights': 'distance'}
