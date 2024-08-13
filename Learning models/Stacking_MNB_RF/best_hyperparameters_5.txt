@@ -1,0 +1,1 @@
+{'final_estimator__C': 0.0625, 'final_estimator__max_iter': 10000, 'final_estimator__solver': 'newton-cg', 'mnb__alpha': 0.1, 'rf__criterion': 'entropy', 'rf__max_depth': None, 'rf__max_features': 'sqrt', 'rf__n_estimators': 300}
